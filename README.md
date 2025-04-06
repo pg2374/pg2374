@@ -28,8 +28,8 @@ Coming soon – updating featured repositories.
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Portfolio](https://your-portfolio.com) _(optional)_
+[LinkedIn]()  
+[Portfolio]()
 
 ---
 
